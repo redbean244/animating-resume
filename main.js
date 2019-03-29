@@ -30,7 +30,7 @@ Github: https://github.com/redbean244
 ### 简历生成器
 - 关键词：\`JavaScript\`、\`Promise\`、\`变速\`、\`过渡动画\`、\`盒阴影\`
 - 描述：该项目实现了一个 Markdown 简历的制作过程，在原生 JS 中使用 Promise 处理异步操作，利用 CSS3 实现过渡、动画、阴影和弹性布局等。
-- [预览链接](https://readbean244.github.io/animating-resume/index.html)
+- [预览链接](https://redbean244.github.io/animating-resume/index.html)
 
 ### 小米官网
 - 关键词：\`页面布局\`、\`Tab切换\`、\`轮播图\`、\`动画\`、\`渐变\`、\`内外阴影\`
@@ -40,12 +40,12 @@ Github: https://github.com/redbean244
 ### 彩色涂鸦
 - 关键词：\`HTML5\`、\`Canvas\`、\`ES6\`、\`JavaScript\`
 - 描述：使用 HTML5 的 Canvas 元素及其相关 API ，实现支持多指同时画图（可选色/粗细）、橡皮擦、一键清空、保存至本地的功能。
-- [预览链接](https://readbean244.github.io/canvas/index.html)
+- [预览链接](https://redbean244.github.io/canvas/index.html)
 
 ### css3画多啦A梦
 - 关键词：\`JavaScript\`、\`css3\`、\`代码高亮\`
 - 描述：主要使用原生 JavaScript 以及 CSS3 实现。利用 prism.js 实现代码高亮。利用动态添加文本，模拟绘制机器猫的过程。
-- [预览链接](https://readbean244.github.io/duola-DEMO/index.html)
+- [预览链接](https://redbean244.github.io/duola-demo/duola-DEMO/index.html)
 
 ## 教育经历
 2012/9 - 2016/6
